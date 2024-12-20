@@ -1,0 +1,13 @@
+name: summarizationpythonopenai
+id: ari:cloud:compass:b099cca4-e168-464e-955f-9bc5bd1e455b:component/3d461702-821a-4c5d-a6f6-eb922d0c914e/ee155fff-60be-4228-9eff-76dfa79d084a
+description: This solution converts speech to text and then processes and summarizes the text based on the prompt scenario.
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links: []
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
